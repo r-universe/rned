@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "agriTutorial"]
+	path = agriTutorial
+	url = https://github.com/cran/agriTutorial
+	shallow = true
+	registered = true
+[submodule "blocksdesign"]
+	path = blocksdesign
+	url = https://github.com/cran/blocksdesign
+	shallow = true
+	registered = true
